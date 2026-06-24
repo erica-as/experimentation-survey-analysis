@@ -16,6 +16,7 @@ O projeto foi estruturado sob três grandes metas de medição:
 
 ## Estrutura do Repositório
 
+<pre>
 ├── data/
 │   └── survey_data.csv
 ├── src/
@@ -25,6 +26,7 @@ O projeto foi estruturado sob três grandes metas de medição:
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+</pre>
 
 ---
 
