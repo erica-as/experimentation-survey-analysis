@@ -8,9 +8,9 @@ Este repositório contém o pipeline de Engenharia de Dados e Análise Estatíst
 
 O projeto foi estruturado sob três grandes metas de medição:
 
-1. **GQM 1 (Perfil Demográfico):** Caracterizar a maturidade profissional e acadêmica do grupo.
-2. **GQM 2 (Maturidade Técnico-Métrica):** Identificar o nível de adoção de métricas de software e ferramentas modernas na rotina de trabalho dos alunos.
-3. **GQM 3 (Expectativas e IA):** Antecipar as tendências de carreira (mercado global) e o impacto das IAs Generativas na produtividade.
+1. **GQM 1:** A definir.
+2. **GQM 2:** A definir.
+3. **GQM 3:** A definir.
 
 ---
 
