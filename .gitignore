@@ -1,0 +1,30 @@
+# ==========================================
+# Ambientes Virtuais (Venv)
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Se quiser permitir a pasta data/ mas ignorar o conteúdo dela:
+# data/*
+# !data/.gitkeep
+
+# ==========================================
+# Configurações de IDEs (VS Code / PyCharm)
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# ==========================================
+# Arquivos do Sistema Operacional
+# ==========================================
+.DS_Store
+Thumbs.db
