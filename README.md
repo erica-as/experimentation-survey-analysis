@@ -16,14 +16,15 @@ O projeto foi estruturado sob três grandes metas de medição:
 
 ## Estrutura do Repositório
 
-├── data/               # Armazena os dados brutos da coleta (Ignorado no Git por segurança)
-│   └── survey_data.csv # Arquivo CSV extraído do Google Forms
-├── src/                # Código-fonte do projeto
-│   └── gerar_graficos.py # Script automatizado que gera os gráficos das 19 perguntas
-├── output/             # Artefatos gerados pelo pipeline
-├── .gitignore          # Regras de exclusão para arquivos locais e dados sensíveis
-├── requirements.txt    # Lista de dependências e bibliotecas do Python
-└── README.md           # Documentação principal do projeto
+├── data/
+│   └── survey_data.csv
+├── src/
+│   └── gerar_graficos.py
+├── output/
+│   └── graficos_formulario/
+├── .gitignore
+├── requirements.txt
+└── README.md
 
 ---
 
